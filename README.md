@@ -1,3 +1,4 @@
+**此教程写于2018年，pymatgen已经更新过很多次，所以强烈建议大家阅读官方教程，此教程仅作为参考！**
 
    pymatgen是Materials Project开发的一个python库,主要用于高通量计算的输入文件设置与输出文件处理，相关软件还有Fireworks，custodian，atomate，matminer，这些软件为高通量计算提供了一个完整的解决方案。pymatgen功能强大，针对Vasp的功能最为完善，利用pymatgen可以完成大部分Vasp计算的自动化处理，优势明显，大家可以自己去进一步学习，这里只为大家简单介绍一下pymatgen在能带结构与电子态密度画图方面的简单应用。
 
